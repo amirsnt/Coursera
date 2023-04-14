@@ -1,6 +1,5 @@
 body{
 	width: 96%;
-	background: lightgray;
 }
 *{
 	margin: 0;
@@ -26,6 +25,7 @@ section.chicken , section.beef , section.sushi{
 	margin-bottom: 10px;
 	float: left;
 	margin-right: 10px;
+	background-color: #80808087;
 
 }
 div section h3.tag-chicken , div section h3.tag-beef , div section h3.tag-sushi{
