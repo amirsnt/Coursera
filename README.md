@@ -1,2 +1,2 @@
 # Coursera
-Html CSS Javascript Course
+Html CSS Javascript Coursera Course
