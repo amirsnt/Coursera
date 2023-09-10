@@ -1,6 +1,2 @@
-# Coursera
-Html CSS Javascript Coursera Course
-Coursera Course:
-HTML CSS and Javascript for Web Developers
-by The Johns Hopkins University
-JHU Logo
+ # Coursera Course:<br>[HTML CSS and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers)<br>
+ by [The Johns Hopkins University](https://www.coursera.org/jhu)<br>[![JHU Logo](././assignments/images/JHU-Logo-Square-Mini_180px.png)](https://www.coursera.org/jhu)<br>
